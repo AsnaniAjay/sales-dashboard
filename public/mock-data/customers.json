@@ -1,0 +1,142 @@
+{
+    "customers": [
+      {
+        "id": "c001",
+        "name": "Acme Corp",
+        "industry": "Manufacturing",
+        "size": "Enterprise",
+        "region": "North America",
+        "joinDate": "2024-05-15",
+        "lifetimeValue": 6798.49,
+        "orderCount": 4,
+        "lastPurchaseDate": "2025-03-24",
+        "status": "active",
+        "contactPerson": "Jane Wilson",
+        "email": "jwilson@acmecorp.com"
+      },
+      {
+        "id": "c002",
+        "name": "TechStart Inc",
+        "industry": "Technology",
+        "size": "Mid-Market",
+        "region": "Europe",
+        "joinDate": "2024-06-22",
+        "lifetimeValue": 6299.99,
+        "orderCount": 3,
+        "lastPurchaseDate": "2025-03-24",
+        "status": "active",
+        "contactPerson": "Mark Rogers",
+        "email": "mark@techstart.co"
+      },
+      {
+        "id": "c003",
+        "name": "Global Retail",
+        "industry": "Retail",
+        "size": "Enterprise",
+        "region": "Asia",
+        "joinDate": "2024-04-10",
+        "lifetimeValue": 4797.49,
+        "orderCount": 4,
+        "lastPurchaseDate": "2025-03-25",
+        "status": "active",
+        "contactPerson": "Lisa Chen",
+        "email": "lchen@globalretail.com"
+      },
+      {
+        "id": "c004",
+        "name": "Quick Logistics",
+        "industry": "Transportation",
+        "size": "Mid-Market",
+        "region": "North America",
+        "joinDate": "2024-07-05",
+        "lifetimeValue": 5397.99,
+        "orderCount": 4,
+        "lastPurchaseDate": "2025-03-27",
+        "status": "active",
+        "contactPerson": "David Ortiz",
+        "email": "d.ortiz@quicklogistics.net"
+      },
+      {
+        "id": "c005",
+        "name": "City Hospital",
+        "industry": "Healthcare",
+        "size": "Enterprise",
+        "region": "North America",
+        "joinDate": "2024-03-18",
+        "lifetimeValue": 5098.48,
+        "orderCount": 4,
+        "lastPurchaseDate": "2025-03-26",
+        "status": "active",
+        "contactPerson": "Robert Lee",
+        "email": "rlee@cityhospital.org"
+      },
+      {
+        "id": "c006",
+        "name": "EduLearn Academy",
+        "industry": "Education",
+        "size": "Mid-Market",
+        "region": "Europe",
+        "joinDate": "2024-08-30",
+        "lifetimeValue": 5649.99,
+        "orderCount": 3,
+        "lastPurchaseDate": "2025-03-28",
+        "status": "active",
+        "contactPerson": "Emma Williams",
+        "email": "ewilliams@edulearn.edu"
+      },
+      {
+        "id": "c007",
+        "name": "Media Masters",
+        "industry": "Media",
+        "size": "Small Business",
+        "region": "North America",
+        "joinDate": "2024-09-12",
+        "lifetimeValue": 2698.98,
+        "orderCount": 3,
+        "lastPurchaseDate": "2025-03-21",
+        "status": "active",
+        "contactPerson": "Tom Jackson",
+        "email": "tjackson@mediamasters.co"
+      },
+      {
+        "id": "c008",
+        "name": "FoodChain Co",
+        "industry": "Food & Beverage",
+        "size": "Mid-Market",
+        "region": "Asia",
+        "joinDate": "2024-05-03",
+        "lifetimeValue": 3497.50,
+        "orderCount": 3,
+        "lastPurchaseDate": "2025-03-23",
+        "status": "active",
+        "contactPerson": "Sophia Kim",
+        "email": "s.kim@foodchain.com"
+      }
+    ],
+    "customerGroups": [
+      {
+        "id": "g001",
+        "name": "Enterprise Clients",
+        "customerCount": 3,
+        "totalRevenue": 16694.46,
+        "averageOrderValue": 1669.45,
+        "growthRate": 15.3
+      },
+      {
+        "id": "g002",
+        "name": "Mid-Market Clients",
+        "customerCount": 4,
+        "totalRevenue": 17845.47,
+        "averageOrderValue": 1338.41,
+        "growthRate": 23.7
+      },
+      {
+        "id": "g003",
+        "name": "Small Business",
+        "customerCount": 1,
+        "totalRevenue": 2698.98,
+        "averageOrderValue": 899.66,
+        "growthRate": 8.2
+      }
+    ]
+  }
